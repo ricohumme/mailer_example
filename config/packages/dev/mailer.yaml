@@ -1,0 +1,7 @@
+framework:
+    mailer:
+        envelope:
+            sender: 'rico@redant.nl'
+            recipients: [ 'rico@redant.nl' ]
+        headers:
+            from: 'Development <rico@redant.nl>'
